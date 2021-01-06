@@ -116,6 +116,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// 状态管理
 class FavoriteWidget extends StatefulWidget {
   @override
   _FavoriteWidgetState createState() => _FavoriteWidgetState();
